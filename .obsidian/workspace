@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "b428937a11c5c3a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5daaa7b7b8b9889",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03321816f0526ba6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd53249e03c3c728",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca9a9aa8d1c1f019",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ffd3649b409de747",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "#",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b8c010eac4463de0",
+    "type": "split",
+    "children": [
+      {
+        "id": "64506b88ca3b5f7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c34ae4a0b25a8edb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67f390030f299b3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d5daaa7b7b8b9889",
+  "lastOpenFiles": [
+    "File Upload Vulnerability Testing.md",
+    "Socat.md",
+    "Transferring Files.md",
+    "Windows/Attacking-Kerberos.md",
+    "Untitled.md",
+    "Linux/Linux-PrivEsc.md",
+    "Windows/Windows-PrivEsc.md",
+    "privesc_cheatsheet.md",
+    "Windows/Untitled.md",
+    "Transferring files.md"
+  ]
+}
