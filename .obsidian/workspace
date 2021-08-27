@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "d5daaa7b7b8b9889",
+        "id": "8d81d22344a1393b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "CTFs/TryHackMe/Agent Sudo.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CTFs/TryHackMe/Agent Sudo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d5daaa7b7b8b9889",
+  "active": "8d81d22344a1393b",
   "lastOpenFiles": [
-    "File Upload Vulnerability Testing.md",
-    "Socat.md",
-    "Transferring Files.md",
-    "Windows/Attacking-Kerberos.md",
-    "Untitled.md",
-    "Linux/Linux-PrivEsc.md",
-    "Windows/Windows-PrivEsc.md",
-    "privesc_cheatsheet.md",
-    "Windows/Untitled.md",
-    "Transferring files.md"
+    "CTFs/TryHackMe/sudo_agent_ctf_report.md",
+    "CTFs/TryHackMe/Attacktive Directory.md",
+    "CTFs/TryHackMe/Steel Mountain.md",
+    "CTFs/TryHackMe/steel_mountain_ctf_report.md",
+    "CTFs/TryHackMe/Relevant.md",
+    "CTFs/TryHackMe/Skynet.md",
+    "CTFs/TryHackMe/Internal.md",
+    "CTFs/TryHackMe/relevant_ctf_report.md",
+    "CTFs/TryHackMe/Internal THM.md",
+    "CTFs/TryHackMe/skynet_ctf_report.md"
   ]
 }

@@ -1,3 +1,4 @@
+#cheatsheet 
 # Socat
 ## Using *socat* To Gain Shell
 First transfer the socat binary from attacker machine to target machine. Use any of the methods described in [[Transferring Files]].
